@@ -16,7 +16,7 @@ A Python tool for collecting and analyzing Google Maps reviews using BERT sentim
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-maps-reviews-analyzer.git
+git clone https://github.com/DDTTYYSS/google-maps-reviews-analyzer
 cd google-maps-reviews-analyzer
 ```
 

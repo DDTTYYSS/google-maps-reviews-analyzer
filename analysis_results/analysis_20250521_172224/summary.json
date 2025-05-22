@@ -1,0 +1,126 @@
+{
+  "timestamp": "20250521_172224",
+  "total_reviews": 130,
+  "successful_analyses": 114,
+  "failed_analyses": 16,
+  "sentiment_distribution": {
+    "positive": 71,
+    "negative": 34,
+    "unknown": 16,
+    "neutral": 9
+  },
+  "resolution_methods": {
+    "direct": 114,
+    "error": 16
+  },
+  "average_confidence": 0.763846153846154,
+  "place_statistics": {
+    "Grand Hyatt Taipei": {
+      "total_reviews": 15,
+      "successful_analyses": 13,
+      "failed_analyses": 2,
+      "sentiment_distribution": {
+        "positive": 12,
+        "unknown": 2,
+        "negative": 1
+      },
+      "average_confidence": 0.7699999999999998
+    },
+    "W Taipei": {
+      "total_reviews": 14,
+      "successful_analyses": 14,
+      "failed_analyses": 0,
+      "sentiment_distribution": {
+        "positive": 12,
+        "negative": 2
+      },
+      "average_confidence": 0.8999999999999997
+    },
+    "Le Méridien Taipei": {
+      "total_reviews": 15,
+      "successful_analyses": 12,
+      "failed_analyses": 3,
+      "sentiment_distribution": {
+        "positive": 6,
+        "negative": 3,
+        "neutral": 3,
+        "unknown": 3
+      },
+      "average_confidence": 0.6699999999999999
+    },
+    "HOMEHOTEL": {
+      "total_reviews": 12,
+      "successful_analyses": 12,
+      "failed_analyses": 0,
+      "sentiment_distribution": {
+        "negative": 6,
+        "positive": 5,
+        "neutral": 1
+      },
+      "average_confidence": 0.8666666666666666
+    },
+    "HolyPro Hotel": {
+      "total_reviews": 14,
+      "successful_analyses": 12,
+      "failed_analyses": 2,
+      "sentiment_distribution": {
+        "negative": 5,
+        "neutral": 4,
+        "positive": 3,
+        "unknown": 2
+      },
+      "average_confidence": 0.6749999999999999
+    },
+    "United Hotel, Taipei｜國聯大飯店": {
+      "total_reviews": 15,
+      "successful_analyses": 13,
+      "failed_analyses": 2,
+      "sentiment_distribution": {
+        "positive": 7,
+        "negative": 6,
+        "unknown": 2
+      },
+      "average_confidence": 0.7733333333333332
+    },
+    "Taipei Charming City Hotel": {
+      "total_reviews": 15,
+      "successful_analyses": 15,
+      "failed_analyses": 0,
+      "sentiment_distribution": {
+        "positive": 14,
+        "neutral": 1
+      },
+      "average_confidence": 0.8966666666666664
+    },
+    "101Stay Apartment": {
+      "total_reviews": 3,
+      "successful_analyses": 0,
+      "failed_analyses": 3,
+      "sentiment_distribution": {
+        "unknown": 3
+      },
+      "average_confidence": 0.0
+    },
+    "Sparkle Hotel Taipei": {
+      "total_reviews": 15,
+      "successful_analyses": 11,
+      "failed_analyses": 4,
+      "sentiment_distribution": {
+        "negative": 8,
+        "unknown": 4,
+        "positive": 3
+      },
+      "average_confidence": 0.6300000000000001
+    },
+    "Pacific Business Hotel": {
+      "total_reviews": 12,
+      "successful_analyses": 12,
+      "failed_analyses": 0,
+      "sentiment_distribution": {
+        "positive": 9,
+        "negative": 3
+      },
+      "average_confidence": 0.8958333333333331
+    }
+  }
+}
